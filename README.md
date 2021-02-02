@@ -21,8 +21,7 @@ Here's a walkthrough of implemented user stories:
 ![Flixster-part1](https://user-images.githubusercontent.com/61173798/106657959-869b1980-6551-11eb-84a3-bcbbeb393cf0.gif)
 
 
-<img src='![Flixster-part1](https://user-images.githubusercontent.com/61173798/106657959-869b1980-6551-11eb-84a3-bcbbeb393cf0.gif)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
